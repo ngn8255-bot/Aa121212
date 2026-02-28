@@ -1,2 +1,3 @@
 Borrow.py means that when we need to borrow books from library, we need to enroll into it by  our account. If the  informaton is not suitable, we cannot enter the webiste, which means we cannot borrow books, but we do not need to worry it , because website can help us complete the whole registration. It is convenient.
-we can use the code in various stages, such as pycharms. when we need to run,we only need to exert 
+We can use the code in various stages, such as pycharms. When we need to run,we only need to exert enroll_library() method, because if my name cannot exist in the website, enroll_library() will add name in the webiste automated and then run it. For sex and years, the  will compare all objects with limited choices. If objects are not related whith these choices, we need to input again.
+After 
