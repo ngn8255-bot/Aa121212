@@ -1,1 +1,2 @@
-it is very good
+Borrow.py means that when we need to borrow books from library, we need to enroll into it by  our account. If the  informaton is not suitable, we cannot enter the webiste, which means we cannot borrow books, but we do not need to worry it , because website can help us complete the whole registration. It is convenient.
+we can use the code in various stages, such as pycharms. when we need to run,we only need to exert 
